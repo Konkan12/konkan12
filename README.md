@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20I'm%20Konkan%20Mollick&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20I'm%20Kankon%20Mollick&fontSize=80&animation=fadeIn" />
   
   <h3>👨‍💻 Full-Stack Developer & Tech Enthusiast</h3>
   <p>Building scalable web applications and exploring the depths of Backend Architecture.</p>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=konkan12&label=Profile%20views&color=0e75b6&style=flat" alt="konkan12" />
+  <img src="https://komarev.com/ghpvc/?username=kankon12&label=Profile%20views&color=0e75b6&style=flat" alt="konkan12" />
 </p>
 
 ---
