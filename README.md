@@ -1,73 +1,69 @@
-<h1 align="center">Hi 👋, I'm Konkan Mollick</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20I'm%20Konkan%20Mollick&fontSize=80&animation=fadeIn" />
+  
+  <h3>👨‍💻 Full-Stack Developer & Tech Enthusiast</h3>
+  <p>Building scalable web applications and exploring the depths of Backend Architecture.</p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=konkan12&label=Profile%20views&color=0e75b6&style=flat" alt="konkan12" />
 </p>
 
+---
+
 ### 🙋‍♂️ About Me
+I am a developer who loves to bridge the gap between frontend aesthetics and backend logic. Inspired by modern architectures, I focus on building high-performance applications.
 
-I am a **Frontend Developer** with a deep love for building clean, user-centric, and performance-optimized web applications. Currently, I am expanding my horizons into **Full-Stack Development**, mastering the **MERN** stack along with **Go (Golang)** and modern **DevOps** tools like **Docker** and **Nginx**.
-
-- 🎯 **My Goal:** To become a Full-Stack Engineer who can build scalable systems from scratch.
-- 💡 **I believe in:** Writing clean code, continuous learning, and solving real-world problems.
-- 🏗️ **Currently Building:** High-performance web interfaces and exploring backend architectures with **PostgreSQL** and **Prisma**.
-- 🌍 **Open to:** Collaborative open-source projects and exciting frontend/full-stack opportunities.
-
----
-
-### 🚀 Quick Links
 - 🔭 I’m currently working on **[bdshop.com](https://www.bdshop.com/)**
-- 🌱 I’m currently learning **Backend Development & Cloud Infrastructures**
-- 💬 Ask me about **React, Tailwind CSS, JavaScript, and Web Development**
-- 📫 How to reach me **konkanmollick@gmail.com**
-- ⚡ Fun fact **I live and breathe code!**
+- 🌱 I’m currently mastering **Go (Golang), Docker, and Nginx**
+- ☁️ Exploring **PostgreSQL** with **Prisma ORM** for efficient data management
+- 💬 Ask me about **React, JavaScript, and Full-stack workflows**
+- 📫 Connect with me: **konkanmollick@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@konkanmoll50360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@konkanmoll50360" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/konkan-mollick-b54a53281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Konkan Mollick" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/15zytwa8kh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/@konkanmollick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@konkanmollick" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack & Proficiency (%)
+*এই সেকশনটি আপনার সবগুলো রেপোজিটোরির কাজের অভিজ্ঞতার ভিত্তিতে পারসেন্টেজ দেখাবে:*
+
+| Technology | Mastery / Project Usage | Percentage |
+| :--- | :--- | :--- |
+| **JavaScript / TypeScript** | ![90%](https://progress-bar.dev/90/?color=f7df1e) | 90% |
+| **React / Next.js** | ![85%](https://progress-bar.dev/85/?color=61dafb) | 85% |
+| **Node.js / Express** | ![75%](https://progress-bar.dev/75/?color=339933) | 75% |
+| **Go (Golang)** | ![45%](https://progress-bar.dev/45/?color=00add8) | 45% |
+| **PostgreSQL / Prisma** | ![65%](https://progress-bar.dev/65/?color=336791) | 65% |
+| **Docker / Nginx** | ![55%](https://progress-bar.dev/55/?color=2496ed) | 55% |
+| **Tailwind CSS** | ![95%](https://progress-bar.dev/95/?color=38bdf8) | 95% |
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/>
-  
-  <br><br>
+### 📊 GitHub Analytics (Real-time)
+*এই গ্রাফগুলো সরাসরি আপনার রেপোজিটোরি থেকে অটো-আপডেট হবে:*
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
-  
-  <br><br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</p>
-
----
-
-<h3 align="left">📈 My Coding Stats:</h3>
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konkan12&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Konkan's Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konkan12&layout=compact&langs_count=10&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api?username=konkan12&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
+  <img width="49%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=konkan12&theme=vision-friendly-dark&hide_border=true" />
+</p>
+
+<br><br><br><br>
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+<a href="https://twitter.com/@konkanmoll50360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/konkan-mollick-b54a53281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/15zytwa8kh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/@konkanmollick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vision-friendly-dark" />
+</div>
 <p align="center">
   <img width="49%" align="left" src="https://github-readme-stats.vercel.app/api?username=konkan12&show_icons=true&theme=tokyonight&hide_border=true" alt="Konkan's Stats" />
   <img width="49%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=konkan12&theme=tokyonight&hide_border=true" alt="Konkan's Streak" />
