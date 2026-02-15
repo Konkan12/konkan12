@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Konkan Mollick</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=konkan12&label=Profile%20views&color=0e75b6&style=flat" alt="konkan12" />
+</p>
+
+### 🙋‍♂️ About Me
+
+I am a **Frontend Developer** with a deep love for building clean, user-centric, and performance-optimized web applications. Currently, I am expanding my horizons into **Full-Stack Development**, mastering the **MERN** stack along with **Go (Golang)** and modern **DevOps** tools like **Docker** and **Nginx**.
+
+- 🎯 **My Goal:** To become a Full-Stack Engineer who can build scalable systems from scratch.
+- 💡 **I believe in:** Writing clean code, continuous learning, and solving real-world problems.
+- 🏗️ **Currently Building:** High-performance web interfaces and exploring backend architectures with **PostgreSQL** and **Prisma**.
+- 🌍 **Open to:** Collaborative open-source projects and exciting frontend/full-stack opportunities.
+
+---
+
+### 🚀 Quick Links
 - 🔭 I’m currently working on **[bdshop.com](https://www.bdshop.com/)**
 - 🌱 I’m currently learning **Backend Development & Cloud Infrastructures**
 - 💬 Ask me about **React, Tailwind CSS, JavaScript, and Web Development**
